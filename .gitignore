@@ -1,0 +1,4 @@
+target/
+nio_crypto/nio_crypto.so
+nio_crypto/__pycache__
+Cargo.lock
